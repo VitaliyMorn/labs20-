@@ -1,4 +1,4 @@
-# prg2020
+# КПП
 
 # lab1
 ![](lab1-image.png)
